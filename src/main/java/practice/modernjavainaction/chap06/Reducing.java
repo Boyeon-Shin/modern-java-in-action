@@ -1,7 +1,7 @@
 package practice.modernjavainaction.chap06;
 
 import static java.util.stream.Collectors.reducing;
-import static modernjavainaction.chap06.Dish.menu;
+import static practice.modernjavainaction.chap06.Dish.menu;
 
 public class Reducing {
 

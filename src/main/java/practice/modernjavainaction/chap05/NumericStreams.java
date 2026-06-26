@@ -1,6 +1,7 @@
 package practice.modernjavainaction.chap05;
 
-import modernjavainaction.chap04.Dish;
+
+import practice.modernjavainaction.chap04.Dish;
 
 import java.util.Arrays;
 import java.util.List;
@@ -8,7 +9,8 @@ import java.util.OptionalInt;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-import static modernjavainaction.chap04.Dish.menu;
+import static practice.modernjavainaction.chap04.Dish.menu;
+
 
 public class NumericStreams {
 
